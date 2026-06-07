@@ -91,7 +91,7 @@ Visit **http://localhost:3000**
 
 ### Prerequisites
 - Node.js 18+
-- MongoDB running locally (`mongod`)
+- MongoDB running locally (`mongod`) *Used MongoDB Atlas for Production Deployment*
 
 ### Backend
 ```bash
