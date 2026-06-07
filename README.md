@@ -12,7 +12,7 @@ Live demo: https://invoice-dashboard-blue.vercel.app
 |-----------|------------------------------------------------------------|
 | Frontend  | React 18, Vite, React Router v6, TanStack Query, MUI v5, Recharts |
 | Backend   | Node.js, Express.js                                        |
-| Database  | MongoDB with Mongoose                                      |
+| Database  | MongoDB with Mongoose (Used Atlas for Deployment           |
 | Container | Docker + Docker Compose                                    |
 
 ---
