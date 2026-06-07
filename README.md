@@ -2,6 +2,8 @@
 
 A full-stack invoice management application built with React, Node.js, Express, and MongoDB.
 
+Live demo: https://invoice-dashboard-blue.vercel.app
+
 ---
 
 ## Tech Stack
@@ -206,5 +208,3 @@ Although `tax = amount × taxRate / 100` and `total = amount + tax` are computab
 
 - [x] Docker Compose (Mongo + API + Frontend)
 
-### Not implemented (out of scope for this submission)
-- [ ] Unit/integration tests
