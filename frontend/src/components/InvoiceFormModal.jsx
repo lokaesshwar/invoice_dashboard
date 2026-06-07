@@ -167,7 +167,7 @@ export default function InvoiceFormModal({ open, onClose, invoice }) {
           </Grid>
         </Grid>
 
-        {/* Computed preview */}
+        
         <Box sx={{ mt: 2, p: 1.5, bgcolor: '#f8fafc', borderRadius: 2, display: 'flex', gap: 3 }}>
           <Typography variant="body2" color="text.secondary">
             Tax: <strong>₹{computedTax}</strong>
